@@ -155,3 +155,4 @@ Get in touch at hello@fig.io or chat with us in [Discord](https://fig.io/communi
   <img src="https://contrib.rocks/image?repo=withfig/autocomplete" />
 </a>
 <!--  https://contrib.rocks -->
+.
